@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Eddiemoe1
-- 👀 I’m interested in front end,back end and web design
-- 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate with great backend developers
-- 📫 @eddiemoe1
+Aspiring data engineer
+Ruby,R and pythoncloud engineer
 
 <!---
 Eddiemoe1/Eddiemoe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
