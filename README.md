@@ -1,6 +1,5 @@
-Aspiring data engineer
-Ruby,R and python
-cloud engineer
+Aspiring cloud engineer
+
 
 <!---
 Eddiemoe1/Eddiemoe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
