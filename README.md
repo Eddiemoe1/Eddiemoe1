@@ -43,7 +43,7 @@ Let’s Connect
 
 “Decentralization is the future — and code is the foundation.”  
 
-Thanks for stopping by! 🚀
+Thanks for stopping by.
 
 
 <!---
