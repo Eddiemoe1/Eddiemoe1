@@ -37,8 +37,8 @@ Feel free to explore my repositories to see my work in action!
 
 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ednah-moraa-11744927a)  
-- ✉️ [Email](moraaednah601@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/ednah-moraa-11744927a)  
+- [Email](moraaednah601@gmail.com)  
 
 
 “Decentralization is the future — and code is the foundation.”  
