@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ednah Moraa</h1>
 
 <p align="center">
-  <strong>Blockchain & frontend and Backend Developer | Smart Contract Engineer | Web3 Enthusiast</strong><br/>
+  <strong>Blockchain,frontend and Backend Developer | Smart Contract Engineer | Web3 Enthusiast</strong><br/>
   Bridging decentralized tech and solid backend systems to build the future.
 </p>
 
