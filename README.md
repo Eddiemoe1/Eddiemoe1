@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-hero-images.vercel.app/api?username=Eddiemoe1&heroText=Eddie%20Moe&width=1000&height=400" alt="Eddie Moe Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Ednah Moraa</h1>
 
