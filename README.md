@@ -5,9 +5,9 @@ I'm a backend and blockchain developer passionate about building secure, scalabl
 
 About Me
 
-- 🔹 Focused on **blockchain development**, primarily writing **smart contracts** using **Solidity**  
-- 🔹 Experienced in deploying and testing contracts on **Ethereum** and compatible networks  
-- 🔹 Learning backend  with strong expertise in **C#**, **.NET Core**, and building RESTful APIs  
+- 🔹 Focused on blockchain development, primarily writing smart contracts using Solidity  
+- 🔹 Experienced in deploying and testing contracts on Ethereum and compatible networks  
+- 🔹 Learning backend  with strong expertise in C#, .NET Core, and building RESTful APIs  
 - 🔹 Interested in full-stack development and integrating blockchain with modern web technologies  
 - 🔹 Passionate about continuous learning in crypto security, cloud computing, and automation  
 
@@ -41,7 +41,7 @@ Let’s Connect
 - [Email](moraaednah601@gmail.com)  
 
 
-“Decentralization is the future — and code is the foundation.”  
+“Decentralization is the future and code is the foundation.”  
 
 Thanks for stopping by.
 
