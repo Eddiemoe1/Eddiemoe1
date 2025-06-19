@@ -91,7 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Eddiemoe1&show_icons=true&theme=radical" alt="Eddie's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddiemoe1&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eddiemoe1&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -109,7 +108,6 @@
   <img src="https://komarev.com/ghpvc/?username=Eddiemoe1&style=flat-square&color=blue" alt="Eddiemoe1 profile views" />
 </p>
 
-#PROG QUOTE
-<p align="center"><i>“Decentralization is the future — and code is the foundation.”</i></p>
+<p align="center"><i><b>“Decentralization is the future — and code is the foundation.”<b></i></p>
 
 ---
